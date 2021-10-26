@@ -1,4 +1,4 @@
-# Superconputing course: lecture slides and labs
+# Supercomputing course: lecture slides and labs
 
 ## Table of contents
 
